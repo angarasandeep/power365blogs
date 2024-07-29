@@ -3,4 +3,4 @@ plugins:
 - jekyll-remote-theme 
 
 title: Power365 Blogs
-description: This blog lays a spotlight on technical know-how of Power Platform and D365 Fin&Ops implementations, customizations and other technial and functional titbits.
+description: This blog highlights the technical aspects of implementing and customizing Power Platform and D365 Finance & Operations, along with various technical and functional insights.
