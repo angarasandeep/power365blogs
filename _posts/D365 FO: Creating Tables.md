@@ -1,3 +1,6 @@
+---
+layout: post
+---
 # D365 FO Customization: Creating Tables
 ---
 ## Table of Contents
