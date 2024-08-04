@@ -5,8 +5,7 @@ author:
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
-description: 
-This blog highlights the technical aspects of implementing and customizing Power Platform and D365 Finance & Operations 
+description: This blog highlights the technical aspects of implementing and customizing Power Platform and D365 Finance & Operations 
 which serves as a guide when required for makers, developers and business users.
 
 # Build settings
